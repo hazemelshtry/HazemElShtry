@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hazem El Shtry
 
-<!--
-**hazemelshtry/HazemElShtry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Time = Knowledge = Value**
 
-Here are some ideas to get you started:
+Welcome to the official GitHub profile of **Hazem El Shtry** — where every second is optimized to give you real results.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+I build powerful tools and workflows that:
+- Maximize productivity
+- Automate complex tasks
+- Turn raw data into actionable insights
+
+My work is practical, fast, and built with one goal:  
+> **“Save time. Deliver value.”**
+
+## 💡 Philosophy
+I don't just code. I build systems that **solve real problems**.  
+Every line of code is driven by this mindset:
+
+> 🎯 *Time is your most valuable asset — spend it wisely.*
+
+## 🌍 Online Presence
+📺 YouTube Channel: [Hazem El Shtry](https://youtube.com/@HazemElShtry)  
+📣 Community Access: [Telegram](https://t.me/6yxkgqNV4_czM2U0) | [Discord](https://discord.gg/e2w46k4uC6)  
+🧠 Personal Brand Tagline:  
+**“Maximize your productivity. Minimize wasted time.”**
+
+---
+
+### 🔎 Let’s Connect
+Feel free to explore, fork, and contribute.  
+If you value time as much as I do, we’re already on the same team.

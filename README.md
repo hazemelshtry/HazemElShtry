@@ -21,7 +21,7 @@ Every line of code is driven by this mindset:
 
 ## 🌍 Online Presence
 📺 YouTube Channel: [Hazem El Shtry](https://youtube.com/@HazemElShtry)  
-📣 Community Access: [Telegram](https://t.me/6yxkgqNV4_czM2U0) | [Discord](https://discord.gg/e2w46k4uC6)  
+📣 Community Access: [Telegram](https://t.me/+6yxkgqNV4_czM2U0) | [Discord](https://discord.gg/e2w46k4uC6)  
 🧠 Personal Brand Tagline:  
 **“Maximize your productivity. Minimize wasted time.”**
 
